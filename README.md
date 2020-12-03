@@ -4,9 +4,8 @@ A Full-stack Web Developer.
 
 I am from Kenya, living in Germany, and currently looking for new remote opportunities.
 
-- 🔭 I’m currently a student at Microverse Inc.
-- 🌱 I’m learning Full-stack Web Development.
-- 👯 I’m looking to collaborate on React and Ruby on Rails projects.
+- 🔭 I’m currently building on React projects.
+- 👯 I’m looking to collaborate on React and RoR / Node.js projects.
 - 💬 Ask me about Software Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mupa-mmbetsa/) | [Twitter](https://twitter.com/mupa_mmbetsa)
 - 😄 Pronouns: She/Her
