@@ -9,7 +9,7 @@ I am from Kenya, living in Germany, and currently looking for new remote opportu
 - 💬 Ask me about Software Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mupa-mmbetsa/) | [Twitter](https://twitter.com/mupa_mmbetsa)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have 2years of remote work experience with devs from all over the world.
+- ⚡ Fun fact: I have 2years of remote work experience collaborating with devs from all over the world.
 
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mupa1&layout=compact&langs_count=6&theme=buefy)](https://github.com/Mupa1/github-readme-stats)
