@@ -1,4 +1,4 @@
-## Hi, I'm Mupa M'mbetsa Nzaphila  👋
+## Hi, I'm Mupa  👋
 
 I'm a Full Stack Web Developer who specializes in the Front End development.
 
