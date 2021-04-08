@@ -1,6 +1,6 @@
 ## Hi, I'm Mupa  👋
 
-I'm a Full Stack Web Developer who specializes in the Front End development.
+I'm a full stack web developer with a positive attitude, a team player willing to learn new technologies, and open to new opportunities.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mupa-mmbetsa/) | [Twitter](https://twitter.com/mupa_mmbetsa)
 - 😄 Pronouns: She/Her
