@@ -1,8 +1,8 @@
 ## Hi, I'm Mupa  👋
 
-I'm a full stack web developer with a positive attitude, a team player willing to learn new technologies, and open to new opportunities.
+I'm a front-end engineer with a positive attitude, a team player willing to learn new technologies, and open to new opportunities.
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mupa-mmbetsa/) | [Twitter](https://twitter.com/mupa_mmbetsa)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mupa-mmbetsa/)
 - 😄 Pronouns: She/Her
 
 ## &#x1f4c8; GitHub Stats
