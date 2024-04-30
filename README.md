@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Mupa M'mbetsa Nzaphila  👋</h2>
 
-I'm a front-end engineer with a positive attitude, a team player willing to learn new technologies, and open to new opportunities.
+I'm a frontend engineer with a positive attitude, a team player willing to learn new technologies, and open to new opportunities.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mupa1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
