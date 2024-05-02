@@ -1,7 +1,11 @@
 
-<h2>Hi, I'm Mupa M'mbetsa Nzaphila  👋</h2>
+<h2>Hi 👋, I'm Mupa M'mbetsa Nzaphila</h2>
 
-I'm a frontend engineer with a positive attitude, a team player willing to learn new technologies, and open to new opportunities.
+A dedicated Frontend Developer with 3+ years of experience building intuitive and
+responsive web applications. Proficient in HTML, CSS, JavaScript, TypeScript, and modern
+frameworks such as React and Next.js.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mupa1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mupa1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
