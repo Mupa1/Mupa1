@@ -1,7 +1,7 @@
 
 <h2>Hi 👋, I'm Mupa M'mbetsa Nzaphila</h2>
 
-A dedicated Frontend Developer with 3+ years of experience building intuitive and
+A dedicated Frontend Developer with about 3 years of experience building intuitive and
 responsive web applications. Proficient in HTML, CSS, JavaScript, TypeScript, and modern
 frameworks such as React and Next.js.
 
