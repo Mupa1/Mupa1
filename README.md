@@ -1,9 +1,8 @@
 
 <h2>Hi 👋, I'm Mupa M'mbetsa Nzaphila</h2>
 
-A dedicated Frontend Developer with about 3 years of experience building intuitive and
-responsive web applications. Proficient in HTML, CSS, JavaScript, TypeScript, and modern
-frameworks such as React and Next.js.
+A dedicated Full Stack Developer with about 3 years of experience building intuitive and
+responsive web applications. Proficient in Node.js, React, Next.js, HTML, CSS, JavaScript, and TypeScript.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mupa1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
