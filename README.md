@@ -1,7 +1,7 @@
 
 <h2>Hi 👋, I'm Mupa M'mbetsa Nzaphila</h2>
 
-A dedicated frontend engineer with over 2 years of experience building intuitive and
+A dedicated frontend engineer with about 3 years of experience building intuitive and
 responsive websites and web applications. Proficient in React, Next.js, HTML, CSS, JavaScript, and TypeScript.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mupa1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
