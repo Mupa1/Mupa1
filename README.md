@@ -1,1 +1,1 @@
-<img width="1400" height="425" alt="linkedin-banner" src="https://github.com/user-attachments/assets/fafedc1b-9777-4a7e-a845-694be0249c5b" />
+<img width="1584" height="396" alt="LinkedIn_Banner" src="https://github.com/user-attachments/assets/75f96d3b-a409-4bc5-9f9c-06d921dec01a" />
